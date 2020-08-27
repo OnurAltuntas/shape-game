@@ -1,5 +1,5 @@
 
-# onuraltuntasdev
+# shape game
 - You can visit from this link --> https://onuraltuntasdev.netlify.app/
 
 > This is simple shape game to understand react lifecycle.
